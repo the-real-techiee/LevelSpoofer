@@ -1,10 +1,10 @@
-# Level Spoofer v1.0
+# Level Spoofer v1.1.5
 <p align="center">  
 <img align="left" alt="Cover" src="LevelSpooferLogo.png" width="60%" height="100" /> 
    
    
    
-<b>Wanted to modify your level to whatever you want? No worries as this plugin can modify it.</b>
+<b>Wanted to modify your level to whatever you want? No worries! As this plugin can modify it.</b>
 
 
 </p>
